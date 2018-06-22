@@ -5,10 +5,10 @@ SeleniumBasic_Ruby
 
 
 ## Setup
-``
+```
 - Install Rubby
 
 - Verify that Installed Ruby
 
 - Install Gem as below
-``
+```
